@@ -1,1 +1,1 @@
-![Levi spin](./final.gif)
+<img src="./final.gif" width="100%" height="auto">
